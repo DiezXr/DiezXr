@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diezxr&label=Profile%20views&color=0e75b6&style=flat" alt="diezxr" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://t.me/DiezXr](https://t.me/DiezXr)
+- 👨‍💻 All of my projects are available at [Tg](https://t.me/DiezXr)
 
 - 💬 Ask me about **Replit Python**
 
 - 📫 How to reach me **DiezXyz@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/DiezXr](https://github.com/DiezXr)
+- 📄 Know about my experiences [Here](https://github.com/DiezXr)
 
 - ⚡ Fun fact **think reading docs is better then watching tutorials**
 
