@@ -25,9 +25,9 @@
 
   <h3 style="color: #ffcc70;">📡 Contact Me:</h3>
   <ul style="list-style: none; padding: 0; color: #f2f2f2;">
-    <li>📨 <a href="https://t.me/cirqueiraz" style="color: #1da1f2;">Telegram</a></li>
+    <li>📨 <a href="https://t.me/DIEZGOD" style="color: #1da1f2;">Telegram</a></li>
     <li>💬 Discord: <strong>Cirqueira</strong></li>
-    <li>📷 <a href="https://www.instagram.com/sirkeirax/" style="color: #e1306c;">Instagram</a></li>
+    <li>📷 <a href="https://www.instagram.com/BRAYAN" style="color: #e1306c;">Instagram</a></li>
   </ul>
 
   <p style="color: #aaaaaa; font-size: 14px; max-width: 500px;">
