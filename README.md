@@ -34,7 +34,7 @@
 </span>
   </pre>
 
-  <h2 style="color: #ff6347; margin-top: -20px;">🪐 Welcome to Mars — The Red Frontier 🪐</h2>
+  <h2 style="color: #ff6347; margin-top: -20px;">🪐 Welcome  — The Red Frontier 🪐</h2>
 
   <p style="color: #dcdcdc; max-width: 600px;">
     This is where code meets cosmos. On this dusty red planet, we explore ideas, craft tools, and push beyond boundaries.
